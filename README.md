@@ -1,5 +1,5 @@
 # Blank React Native Project
-## Installed Package
+## Installed & Set Upped Package
 - @react-navigation
 - react-redux
 - react-native-vector-icons
